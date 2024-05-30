@@ -1,0 +1,9 @@
+{
+  "name": "clover-bot",
+  "version": "1.0.0",
+  "description": "A super Vietnamese, multi-purpose bot.",
+  "main": "bot.js",
+  "repository": "https://github.com/lvdat/clover-bot",
+  "author": "lvdat",
+  "license": "MIT"
+}
